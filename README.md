@@ -1,13 +1,5 @@
-################################################################################
-#  Tufts University COMP 131, Summer 2020                                      #
-#  README                                                                      #
-#  By:          Sawyer Bailey Paccione                                         #
-#  Completed:                                                                  #
-#                                                                              #
-#  Description: A README file contains information about other files in a      #
-#               directory or archive of compute software.                      #
-################################################################################
-            
+
+#  Tufts University COMP 131, Summer 2020 
 
 ## Program Purpose                             
 
